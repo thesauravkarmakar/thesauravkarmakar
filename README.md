@@ -1,12 +1,12 @@
 ## Hey,I'm Saurav! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.linkedin.com/in/sauravkarmakar/">
-  <img align="left" alt="Saurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Saurav's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" />
 </a>
 <a href="https://t.me/sauravk_tg">
-  <img align="left" alt="Saurav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Saurav's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
 </a>
 <a href="mailto:thesauravkarmakar@gmail.com">
-  <img align="left" alt="Saurav's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Saurav's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
 <br />
 <br />

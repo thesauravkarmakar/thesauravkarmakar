@@ -1,6 +1,6 @@
 ## Hey,I'm Saurav! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.linkedin.com/in/sauravkarmakar/">
-  <img align="left" alt="Saurav's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" />
+  <img align="left" alt="Saurav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>
 <a href="https://t.me/sauravk_tg">
   <img align="left" alt="Saurav's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />

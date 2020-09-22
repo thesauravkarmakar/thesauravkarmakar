@@ -19,7 +19,7 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 
 ### More about me...
 
-- 🔭 I’m currently working on _Modeling and Prediction of COVID-19 Spread in India_ <img src="https://img.icons8.com/doodle/20/000000/coronavirus.png"/>
+- 🔭 I’m currently working as a Data Science Intern at [iNeuron.ai](https://ineuron.ai/)
 - 🌱 I’m currently learning Deep Learning <code><img height="20" src="https://cdn.svgporn.com/logos/pytorch.svg"></code>
 - 👯 My research interests are with Deep Reinforcement Learning,Object Detection etc.
 - 💬 Ask me about anything, I would like to answer.
@@ -27,16 +27,14 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/svg/888/888867.svg"></code>
-
-
-### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thesauravkarmakar&show_icons=true&hide_border=true)

@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/sauravkarmakar/">
   <img align="left" alt="Saurav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" />
 </a>
-<a href="https://t.me/sauravk_tg">
-  <img align="left" alt="Saurav's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
-</a>
 <a href="mailto:thesauravkarmakar@gmail.com">
   <img align="left" alt="Saurav's Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
@@ -19,9 +16,9 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 
 ### More about me...
 
-- 🔭 I’m currently working as a Data Science Intern at [iNeuron.ai](https://ineuron.ai/)
-- 🌱 I’m currently learning Deep Learning <code><img height="20" src="https://cdn.svgporn.com/logos/pytorch.svg"></code>
-- 👯 My research interests are with Deep Reinforcement Learning,Object Detection etc.
+- 🔭 I’m currently working as a Research Intern at [Vision Intelligence Lab](https://visionintelligence.github.io/index.html)
+- 🌱 I’m currently learning Facial expression recognition :trollface:
+- 👯 My research interests are with Classical Vision, Visual Odometry, and Scene Flow Estimation.
 - 💬 Ask me about anything, I would like to answer.
 
 **Languages and Tools:**  

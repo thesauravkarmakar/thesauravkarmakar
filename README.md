@@ -16,9 +16,9 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 
 ### More about me...
 
-- 🔭 I’m currently working as a Research Intern at [Vision Intelligence Lab](https://visionintelligence.github.io/index.html)
-- 🌱 I’m currently learning Facial expression recognition :trollface:
-- 👯 My research interests are with Classical Vision, Visual Odometry, and Scene Flow Estimation.
+- 👨🏻‍💻 I’m currently working as a Research Intern at [Vision Intelligence Lab](https://visionintelligence.github.io/index.html)
+- ✍🏽 I’m currently learning Facial expression recognition :trollface:
+- 🔭 My research interests are in algorithms for **Visual Perception** *(object recognition, localization, segmentation, pose estimation, ...)*
 - 💬 Ask me about anything, I would like to answer.
 
 **Languages and Tools:**  

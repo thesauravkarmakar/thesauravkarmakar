@@ -8,13 +8,13 @@
 </a>
 <br />
 <br />
-Senior Product Manager building at the intersection of **fintech and commerce**
+Product Manager building at the intersection of fintech and commerce.<br><br>
 
 Currently at **POP**, focused on:
 - Building **shopping experiences** that improve discovery → conversion → retention
-- Creating the **payments → commerce flywheel** 
-- Solving **customer-first CX** 
-- Applying **AI** to solve real customer problems 
+- Creating the **payments → commerce flywheel**
+- Solving **customer-first CX**
+- Applying **AI** to solve real customer problems
 
 I enjoy **0→1 and 1→10** problems, working close to engineering + data, and turning messy inputs into clear execution.
 

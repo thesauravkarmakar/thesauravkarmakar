@@ -8,29 +8,29 @@
 </a>
 <br />
 <br />
+Senior Product Manager building at the intersection of **fintech and commerce**
 
-I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I also like to guide and mentor newbies 👨🏻‍💻. I'm currently into Deep Learning 🧠 and working on Computer Vision 👀. 
+Currently at **POP**, focused on:
+- Building **shopping experiences** that improve discovery → conversion → retention
+- Creating the **payments → commerce flywheel** 
+- Solving **customer-first CX** 
+- Applying **AI** to solve real customer problems 
+
+I enjoy **0→1 and 1→10** problems, working close to engineering + data, and turning messy inputs into clear execution.
+
+### What I believe
+- Clarity beats speed (and compounds)
+- If you can’t measure it, you don’t understand it
+- Most product problems are communication problems
+- MVP should still be intentional
+
+### Side interests
+- AI-assisted product building
+- Agentic commerce (practical, not hype)
+
+Outside work: travel planning like a PM, game nights with unnecessary competitiveness and gym consistency (mostly) 
+
+> Build things people actually use.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-
-### More about me...
-
-- 👨‍💻 I’m currently working on my Data Structures and Algorithimic skills. Check out my [repository](https://github.com/thesauravkarmakar/CP-DSA-JAVA) for the same. 
-- 👨‍🏫 My research interests are in algorithms for **Visual Perception** *(object recognition, localization, segmentation, pose estimation, ...)*
-- 💬 Ask me about anything, I would like to answer.
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=thesauravkarmakar&show_icons=true&hide_border=true&count_private=true)
 
